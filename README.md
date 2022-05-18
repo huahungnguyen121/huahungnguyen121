@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hua Hung Nguyen ([@huahungnguyen121](https://github.com/huahungnguyen121)).
 - 👀 I’m interested in coding and designing.
 - 🌱 I’m currently learning information technology at University Of Science - Vietnam National University Of Ho Chi Minh City.
-- 📫 Contact me: [email](huahung.nguyen01@gmail.com) or [facebook](https://www.facebook.com/huahung.nguyen)
+- 📫 Contact me: [email](huahung.nguyen01@gmail.com) or [linkedin](https://www.linkedin.com/in/huahung-nguyen/)
 
 <!---
 huahungnguyen121/huahungnguyen121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
