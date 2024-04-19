@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hung, Nguyen Hua ([Portfolio](https://nhhung.vercel.app/)).
-- 👀 I’m interested in coding and designing.
-- 🌱 I graduated from University Of Science - Vietnam National University Of Ho Chi Minh City as a software engineering.
-- 💻 My skills: React.js, Vue.js, Javascript, Typescript, Node.js.
+- 👋 Hi, I’m Hung, Nguyen Hua ([My Portfolio](https://nhhung.vercel.app/)).
+- 👀 I’m interested in coding, designing and UI/UX-related stuff.
+- 🌱 I graduated from University Of Science - Vietnam National University Of Ho Chi Minh City as a software engineer.
+- 💻 My top skills: React.js, Vue.js, JavaScript, TypeScript, Node.js.
 - 📫 Contact me: [email](huahung.nguyen01@gmail.com) or [linkedin](https://www.linkedin.com/in/huahung-nguyen/)
 
 <!---
