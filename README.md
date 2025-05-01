@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hua Hung, Nguyen.
+- 👋 Hi, I’m Hua Hung, Nguyen and I'm from Vietnam.
 - 👀 I love coding, designing and working UI/UX-related stuff.
 - 🌱 I graduated from University Of Science - Vietnam National University Of Ho Chi Minh City as a software engineer.
 - 💻 My top skills: React.js, Vue.js, JavaScript, TypeScript, Node.js.
