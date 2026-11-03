@@ -80,6 +80,14 @@ A collection of practical browser-based tools and utilities, including generator
 
 A web-based implementation of the classic Minesweeper game built with Vue.js.
 
+## ☕ Support Me
+
+If you enjoy my projects or find my work useful, consider supporting me! Your support helps me continue building, improving, and sharing free projects.
+
+[![Support Me on Ko-fi](https://img.shields.io/badge/Support%20Me%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/huahungnguyen)
+
+Every bit of support is greatly appreciated! ❤️
+
 ## 🎓 Background
 
 I graduated from the **[University of Science – Vietnam National University, Ho Chi Minh City](https://hcmus.edu.vn/)**, specializing in Software Engineering.
