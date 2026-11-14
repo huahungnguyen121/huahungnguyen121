@@ -64,6 +64,10 @@ I enjoy working at the intersection of **software development, UI/UX, and design
 
 ## 🚀 Featured Projects
 
+### 📚 [Reading in Levels](https://readinginlevels.com/)
+
+A language-learning platform featuring real-world stories adapted to different proficiency levels, with audio, vocabulary support, and interactive exercises to help learners improve their language skills.
+
 ### 📖 [Book Reader](https://nhhbookreader.netlify.app/)
 
 A browser-based reader focused on providing a clean and customizable reading experience.
